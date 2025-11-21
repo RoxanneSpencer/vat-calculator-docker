@@ -8,10 +8,12 @@
   padding: 10px;
 }
 
-.header{
+.header {
   padding: 20px;
   font-size: 28px;
   font-weight: bold;
+  color: rgb(54, 41, 179);
+  border: 10px solid rgb(184, 12, 12); /* Added border */
 }
 
 body{
